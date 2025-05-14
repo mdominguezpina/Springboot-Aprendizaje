@@ -4,9 +4,10 @@ Este repositorio contiene ejercicios prácticos mientras aprendo a desarrollar m
 
 ## 📂 Estructura del repositorio
 
+```
 Springboot-Aprendizaje/
 ├── 01-primer-microservicio/                      # Microservicio básico en Spring Boot con tres endpoints.
-
+```
 
 ## 🛠️ Tecnologías utilizadas
 
