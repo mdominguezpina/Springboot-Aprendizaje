@@ -1,0 +1,53 @@
+# === Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# === Eclipse / STS ===
+.classpath
+.project
+.settings/
+.apt_generated/
+.factorypath
+.recommenders/
+.springBeans/
+.sts4-cache/
+
+# === IDEs ===
+.idea/
+.vscode/
+*.iml
+*.iws
+out/
+
+# === Archivos de build ===
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+build/
+
+# === Archivos temporales y backups ===
+*.tmp
+*.bak
+*.swp
+*~
+*.tmp
+
+# === Archivos de logs ===
+*.log
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Reportes de tests ===
+surefire-reports/
